@@ -1,12 +1,15 @@
-Script em python  que verefica se o usuario é ou não maior de idade
+# Verificador de Maioridade 
 
-##funcionalidade 
-- Solicita a idade do usuário
-- Verifica se a idade é valida (com numeros inteiros)
-- Exibe se o usuario é ou não maior de idade 
+Script Python que verifica se um usuário é maior de idade com tratamento de erros.
 
-## Linguagens Usadas
-  - python
-## Como usar
-  - Digite a sua idade quando for solicitada
+## Funcionalidades
+-  Solicita idade do usuário
+-  Valida entradas (apenas números inteiros)
+-  Classifica como maior/menor de idade
+-  Previne erros com tratamento de exceções
+
+## Como Usar
+1. Execute o script:
+   ```bash
+   python verificador_maioridade.py
 
